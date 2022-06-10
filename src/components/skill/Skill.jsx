@@ -2,7 +2,9 @@ import React from 'react'
 import './skill.css'
 
 const Skill = () => {
-  return <div>Skill</div>
+  return (
+  <section id='skill'>Skill</section>
+  )
 }
 
 export default Skill
