@@ -33,9 +33,9 @@ const Nav = () => {
         <BsBookmarkCheck />
       </a>
       <a
-        href="#project"
-        onClick={() => setActiveNav('#project')}
-        className={activeNav === '#project' ? 'active' : ''}
+        href="#portfolio"
+        onClick={() => setActiveNav('#portfolio')}
+        className={activeNav === '#portfolio' ? 'active' : ''}
       >
         <RiServiceLine />
       </a>

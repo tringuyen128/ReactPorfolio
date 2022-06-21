@@ -7,9 +7,9 @@ const Header = () => {
   return (
     <header>
       <div className="container header__container">
-        <h5>Hello, I'm</h5>
+        <h5 className='text-light' id='intro-header'>Hello, I'm</h5>
         <h1>Tri Nguyen</h1>
-        <h3 className="text-light">Fullstack Web Developer</h3>
+        <h3 className="text-light" id='title-header'>Fullstack Web Developer</h3>
         <h5 className="text-light">
           <em>
             I build websites with a focus on responsive design and
