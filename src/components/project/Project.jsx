@@ -1,9 +1,9 @@
 import React from 'react'
 import './project.css'
 import IMG1 from '../../assets/project1.jpg'
-import IMG2 from '../../assets/project1.jpg'
-import IMG3 from '../../assets/project1.jpg'
-import IMG4 from '../../assets/project1.jpg'
+import IMG2 from '../../assets/project2.jpg'
+import IMG3 from '../../assets/project3.jpg'
+import IMG4 from '../../assets/project4.jpg'
 import IMG5 from '../../assets/project1.jpg'
 import IMG6 from '../../assets/project1.jpg'
 
@@ -21,28 +21,28 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Project2',
-    github: 'https://github.com',
-    demo: 'https://social-app-your-thoughts.herokuapp.com/'
+    title: 'Weather App',
+    github: 'https://github.com/tringuyen128/Weather-Dashboard',
+    demo: 'https://tringuyen128.github.io/Weather-Dashboard/'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Project 3',
-    github: 'https://github.com',
-    demo: 'https://social-app-your-thoughts.herokuapp.com/'
+    title: 'Just Tech News',
+    github: 'https://github.com/tringuyen128/just-tech-news',
+    demo: 'https://tech-blognews.herokuapp.com/'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Project 4',
-    github: 'https://github.com',
-    demo: 'https://social-app-your-thoughts.herokuapp.com/'
+    title: 'Book Search Engine',
+    github: 'https://github.com/tringuyen128/Book-Search-Engine',
+    demo: 'https://book-search-challenge-21-mern.herokuapp.com/'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Project 5',
+    title: '',
     github: 'https://github.com',
     demo: 'https://social-app-your-thoughts.herokuapp.com/'
   },
