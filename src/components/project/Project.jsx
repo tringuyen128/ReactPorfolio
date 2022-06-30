@@ -47,10 +47,11 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: '',
-    github: 'https://github.com',
-    demo: 'https://social-app-your-thoughts.herokuapp.com/',
-    description: 'coming soon',
+    title: 'Netflix Clone Page',
+    github: 'https://github.com/tringuyen128/Netflix_Clone_Page',
+    demo: 'https://tringuyen128.github.io/Netflix_Clone_Page/',
+    description:
+      'This Netflix clone landing page was built using HTML, CSS, Javascript. It is dynamic and responsive for user interface',
   },
   {
     id: 6,
